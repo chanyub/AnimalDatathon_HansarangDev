@@ -165,5 +165,5 @@ $ python inference.py
 [허재섭(shjas94)](https://github.com/shjas94)  
 [조원(fokkersn)](https://github.com/jo-member)  
 [송광원(remaindere)](https://github.com/remaindere)  
-[신찬엽()]()  
+[신찬엽(chanyub)](https://github.com/chanyub)  
 
